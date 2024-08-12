@@ -1,0 +1,11 @@
+{
+  "name": "barberia_back",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/AndreeyBvB0909/msolis_backend_barberia.git",
+  "author": "Michael Solis Alvarado <85146774+AndreeyBvB0909@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.5.2"
+  }
+}
