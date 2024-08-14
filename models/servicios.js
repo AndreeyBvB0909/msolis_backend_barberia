@@ -22,6 +22,10 @@ const ServicioSchema = new Schema({
   costo: {
     type: Number,
     required: true,
+  },
+  imagen: {
+    type: String,
+    required: true,
   }
 });
 
